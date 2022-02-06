@@ -1,10 +1,13 @@
-<a href="https://www.narative.co/labs/novela/" target="_blank">
-<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-hero.jpg" alt="gatsby-novela-theme hero image" />
-</a>
+# We forked original repo that was removed by it's author(Narative). 
+This theme is deprecated and no longer maintained by anyone. Instead we recommend to use our [premium blog theme](https://gatsbytemplates.io/theme/california-gatsby-theme/). You'll get:
+* 2-year updates
+* 24-hour tech support
+* premium code quality
+Your time worth it.
 
-<br/>
+This theme is still here for history and in case you want to use some parts of code in your site.
 
-# Novela — A Gatsby theme by Narative
+## Novela — A Gatsby theme by Narative
 
 With minimal styling and maximum features — including multiple homepage layouts, built-in social sharing and dark mode — Novela makes it easy to start publishing beautiful articles and stories with Gatsby.
 
@@ -12,24 +15,6 @@ Novela is built by the team at [Narative](https://www.narative.co), and built fo
 
 Special thanks to [@jpvalery](https://github.com/jpvalery) for helping maintain Novela.
 
-## Maintenance
-
-We have stopped maintainig this project. There will be occassional PR reviews and merges of significant errors but do not expect any changes or responses to support questions in the future. Thank you to everyone that has contributed and continues to use and learn from Novela.
-
-<br/>
-<br/>
-
-<div>
-<a href="https://www.narative.co/labs/novela/" target="_blank">
-<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-demo.jpg" alt="gatsby-novela-theme live demo" width="295px" />
-</a>
-</div>
-
-<div>
-<a href="https://www.narative.co/design/open/novela" target="_blank">
-<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="295px" />
-</a>
-</div>
 
 ### Table of Contents
 
