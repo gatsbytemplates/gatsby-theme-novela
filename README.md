@@ -3,6 +3,7 @@ This theme is deprecated and no longer maintained by anyone. Instead we recommen
 * 2-year updates
 * 24-hour tech support
 * premium code quality
+
 Your time worth it.
 
 This theme is still here for history and in case you want to use some parts of code in your site.
